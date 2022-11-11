@@ -1259,3 +1259,38 @@ a {
 .cid-tmBOWol5bm .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-tmUcCVLt8v {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tmUcCVLt8v .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tmUcCVLt8v .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tmUcCVLt8v ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tmUcCVLt8v li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tmUcCVLt8v ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #3d0b80;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
