@@ -1053,8 +1053,8 @@ a {
   background-image: url("../../../assets/images/1502-1-2000x1333.jpeg");
 }
 .cid-tmCVyPrLpN .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.1;
+  background: #000000;
+  opacity: 0.5;
 }
 .cid-tmCVyPrLpN img,
 .cid-tmCVyPrLpN .item-img {
@@ -1189,6 +1189,99 @@ a {
 }
 .cid-tmHi1vDQ60 .text-box .mbr-text {
   color: #ffffff;
+}
+.cid-tn0ClQDdUM {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #16032e;
+}
+.cid-tn0ClQDdUM .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tn0ClQDdUM .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tn0ClQDdUM .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-tn0ClQDdUM .card-wrapper {
+  background-color: #100123;
+  border-radius: 4px;
+}
+.cid-tn0ClQDdUM .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tn0ClQDdUM .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-tn0ClQDdUM .social-row .soc-item .mbr-iconfont {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+  transition: all 0.3s;
+}
+.cid-tn0ClQDdUM .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.cid-tn0ClQDdUM .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-tn0ClQDdUM .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tn0ClQDdUM .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tn0ClQDdUM .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-tn0ClQDdUM .card-title {
+  color: #ffffff;
+}
+.cid-tn0ClQDdUM .card-subtitle {
+  color: #ffffff;
+}
+.cid-tn0ClQDdUM .mbr-text,
+.cid-tn0ClQDdUM .social-row {
+  color: #ffffff;
+}
+.cid-tn0QbPtb0y {
+  background-image: url("../../../assets/images/1502-2000x1333.jpg");
+}
+.cid-tn0QbPtb0y .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tn0QbPtb0y .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-tmBOWol5bm {
   padding-top: 1rem;
